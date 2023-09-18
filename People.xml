@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<people>
+    <person>
+        <first>Dr. Bunsen</first>
+        <last>Honeydew</last>
+        <address>Hollywood</address>
+    </person>
+    <person>
+        <first>Gonzo</first>
+        <last>The Great</last>
+        <address>Moscow</address>
+    </person>
+    <person>
+        <first>Phillip J.</first>
+        <last>Fry</last>
+        <address>Sochi</address>
+    </person>
+</people>
